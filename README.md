@@ -4,7 +4,7 @@
 
 ## 🚀 Overview
 
-Welcome to the Computer Vesion  Virtual Keyboard project! This innovative application uses computer vision and hand tracking to create a virtual keyboard that you can type with using just your hands in the air. Perfect for futuristic interfaces, accessibility solutions, or just plain fun!
+Welcome to the Computer Vesion Virtual Keyboard project! This innovative application uses computer vision and hand tracking to create a virtual keyboard that you can type with using just your hands in the air. Perfect for futuristic interfaces, accessibility solutions, or just plain fun!
 
 ## ✨ Features
 
@@ -26,9 +26,7 @@ Welcome to the Computer Vesion  Virtual Keyboard project! This innovative applic
 
 Check out this LinkedIn post showcasing the Virtual Keyboard in action:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7183088669799653376" height="530" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-[View on LinkedIn](https://www.linkedin.com/posts/gazi-faysal-jubayer_project-virtual-keyboard-practicing-computer-activity-7183088670483132416-sRoG)
+[Watch the Virtual Keyboard in Action!](https://www.linkedin.com/posts/gazi-faysal-jubayer_project-virtual-keyboard-practicing-computer-activity-7183088670483132416-sRoG)
 
 ## 🚀 Getting Started
 
